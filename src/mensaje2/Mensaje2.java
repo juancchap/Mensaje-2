@@ -11,7 +11,9 @@ package mensaje2;
 public class Mensaje2 {
 
     /**
-     * @param args the command line arguments
+     se imprime los mensajes  en pantalla de Muicipio : Atizapan
+     Estado : Mexico
+     Edad: 27
      */
     public static void main(String[] args) {
         
